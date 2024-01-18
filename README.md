@@ -31,8 +31,5 @@ I enjoy working with the following tools and technologies:
 
 
 
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide=issues&count_private=true&hide_border=true)](https://github.com/YourGitHubUsername)
 
 
